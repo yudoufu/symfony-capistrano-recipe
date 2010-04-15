@@ -1,0 +1,6 @@
+#your setting here!!
+#all:
+#  master:
+#    class: sfDoctrineDatabase
+#    param:
+#      dsn: mysql://root:pass@localhost/dbname
